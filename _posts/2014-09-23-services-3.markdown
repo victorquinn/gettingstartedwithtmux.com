@@ -1,12 +1,9 @@
 ---
 layout: default
-img: phones.png
+img: example.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Real World Examples
 description: |
-  <p class="lead">This template features the 'Lato' font,
-  part of the <a target="_blank" href="http://www.google.com/fonts">Google
-  Web Font library</a>, as well as <a target="_blank"
-  href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+  <p class="lead">This book is packed with real world examples which give this concise guide an edge over the stock tmux documentation.</p>
 
 ---

@@ -4,6 +4,6 @@ img: approachable.jpg
 category: Services
 title: Easy and Approachable
 description: |
-  <p class="lead"><a name="about"></a>This easy and approachable getting started guide is a great point of entry for developers looking to maximize their terminal usage.</p><p class="lead">However, it also has enough depth that it is helpful for more adept tmux users as well.</p>
+  <p class="lead">This easy and approachable getting started guide is a great point of entry for developers looking to maximize their terminal usage.</p><p class="lead">However, it also has enough depth that it is helpful for more adept tmux users as well.</p>
 
 ---
